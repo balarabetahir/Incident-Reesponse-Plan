@@ -17,3 +17,11 @@ It also decides who gets notified and when. Managers need to know about severe i
 
 
 [Cyber-Incident-Response-Ransomware-Playbook](https://github.com/balarabetahir/Cyber-Incident-Response-Ransomware-Playbook)
+
+[Cyber resilience: public sector action plan 2017–2018](https://www.gov.scot/publications/cyber-resilience-strategy-scotland-public-sector-action-plan-2017-18/)
+
+[ISO/IEC 27035–1:2023](https://www.iso.org/standard/78973.html)
+
+[Categorising UK cyber incidents](https://www.ncsc.gov.uk/information/categorising-uk-cyber-incidents)
+
+[Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
